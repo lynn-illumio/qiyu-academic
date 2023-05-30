@@ -27,7 +27,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Ongoing Publication and Projects
       filters:
         folders:
           - project
@@ -52,12 +52,12 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Awards
+      subtitle: "Award: 1) First place award of poster competition for PhD students in 2023 Statistics and Optimization in Data Science Workshop at Mitchell E. Daniels, Jr. School of Business. 2) Magna Cum Laude of New York University 3) Dean’s List of the Academic Year of New York University."
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
 ---
