@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Qiyu Han 韩棋雨
 
 # Full name (for SEO)
 first_name: Alice
