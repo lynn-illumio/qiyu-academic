@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Qiyu Han 韩棋雨
+title: Qiyu Han
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Qiyu
+last_name: Han
 
 # Status emoji
 status:
@@ -14,34 +14,37 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate in Quantitative Method
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Purdue University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning Algorithms
+  - Statistical Inference (Reinforcement Learning and Bandid settings)
+  - Causal Inference in Machine Learning
+  - Coding and Mathematics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D in Quantitative Method
+      institution: Purdue University
+      year: 2018 - 2024(Expected)
+    - course: M.S. in Statistics and Computer Science
+      institution: Purdue University
+      year: 2018 - 2024(Expected)
+    - course: M.S. in Mathematics in Finance
+      institution: New York University
+      year: =2018
+    - course: B.S. in Mathematics
+      institution: New York University
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +53,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: "mailto:han541@purdue.edu"
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://web.ics.purdue.edu/~sun244/2.html
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/johnnyhan2018/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +68,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'han541@purdue.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 5th year Ph.d candidate in Statistics and Computer Science. My interest lies in the theory and application of machine learning algorithms, especially in statistical inference under
+Reinforcement Learning and Bandit settings, as well as Causal Inference in Machine Learning. Besides, I am passionate and familiar with many statistical models and have a strong foundation in coding and mathematics.
 {style="text-align: justify;"}
