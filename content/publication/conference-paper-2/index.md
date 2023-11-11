@@ -46,6 +46,8 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
+show_date: false
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
