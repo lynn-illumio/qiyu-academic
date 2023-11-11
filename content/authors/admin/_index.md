@@ -25,24 +25,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Machine Learning Algorithms
-  - Statistical Inference (Reinforcement Learning and Bandid settings)
-  - Causal Inference in Machine Learning
-  - Coding and Mathematics
+  - Statistical Reinforcement Learning
+  - Tensor Learning
+  - Online Learning
+  - Causal Inference
+  - Risk Quantification in Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D in Quantitative Method
       institution: Purdue University
-      year: 2018 - 2024(Expected)
-    - course: M.S. in Statistics and Computer Science
+      year: 2018 - 2024
+    - course: Master of Science in Statistics and Computer Science
       institution: Purdue University
       year: 2018 - 2024(Expected)
-    - course: M.S. in Mathematics in Finance
+    - course: Master of Science in Mathematics in Finance
       institution: New York University
-      year: =2018
-    - course: B.S. in Mathematics
+      year: 2018
+    - course: Bachelor of Science in Mathematics
       institution: New York University
       year: 2016
 
