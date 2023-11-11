@@ -34,7 +34,6 @@ abstract: Contextual bandit has been widely used for sequential decision-making 
 
 # Summary. An optional shortened abstract.
 summary: |
-  Summary
   - **Collaboration**:
       - This is a collaborative work with Will Wei Sun and Yichen Zhang. Under first round revision for Annals of Statistics (AOS).
 
