@@ -34,12 +34,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D in Quantitative Method
+    - course: Ph.D in Quantitative Method (Statistics track)
       institution: Purdue University
       year: 2018 - 2024
     - course: Master of Science in Statistics and Computer Science
       institution: Purdue University
-      year: 2018 - 2024(Expected)
+      year: 2018 - 2024
     - course: Master of Science in Mathematics in Finance
       institution: New York University
       year: 2018
@@ -75,6 +75,5 @@ email: 'han541@purdue.edu'
 highlight_name: true
 ---
 
-I am a 5th year Ph.d candidate in Statistics and Computer Science. My interest lies in the theory and application of machine learning algorithms, especially in statistical inference under
-Reinforcement Learning and Bandit settings, as well as Causal Inference in Machine Learning. Besides, I am passionate and familiar with many statistical models and have a strong foundation in coding and mathematics.
+I am currently in my final year as a Ph.D. candidate in Quantitative Methods at the Daniel Business School, Purdue University. Under the guidance of Professor <a target="_blank" href="https://web.ics.purdue.edu/~sun244/">Will Wei Sun </a>, I have focused my studies on the theoretical and practical aspects of machine learning algorithms. My primary interests include statistical inference in Reinforcement Learning and Bandit settings, as well as exploring the intersections of Causal Inference and Machine Learning.
 {style="text-align: justify;"}

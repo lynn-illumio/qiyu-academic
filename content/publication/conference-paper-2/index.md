@@ -5,20 +5,20 @@ title: 'Off-Policy Evaluation For Low-Rank Tensor Markov Decision Processes.'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Pratik Ramprasad
+  - admin
   - Zhengling Qi
   - Will Wei Sun
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
 
-date: '2021-12-21T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-12-21T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +27,10 @@ publishDate: '2021-12-21T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of the American Statistical Association
-publication_short: In JASA
+#publication: Journal of the American Statistical Association
+#publication_short: In JASA
 
-abstract: In the line of research within tensor learning, I focus on off-policy evaluation through the introduction of a tensor MDP framework. This framework is particularly capable of capturing the dynamics of sequential decision-making processes when the state-action features are represented as tensors. Using tensor features in their original form as inputs—for instance, in neuro-imaging—preserves critical spatial information that could be diminished or lost when the data is simplistically converted into vector covariates for application in traditional modeling approaches. When the $Q$ function can be approximated using a tensor parameter with a low-rank structure, we develop a method for \textbf{estimating this low-rank tensor within the evolution of sequential decision-making processes}. Theoretical guarantees are established for our proposed estimation algorithm, laying the foundation for the pioneering integration of tensor methodologies into the RL setting.
+abstract: In the line of research within tensor learning, I focus on off-policy evaluation through the introduction of a tensor MDP framework. This framework is particularly capable of capturing the dynamics of sequential decision-making processes when the state-action features are represented as tensors. Using tensor features in their original form as inputs—for instance, in neuro-imaging—preserves critical spatial information that could be diminished or lost when the data is simplistically converted into vector covariates for application in traditional modeling approaches. When the Q function can be approximated using a tensor parameter with a low-rank structure, we develop a method for estimating this low-rank tensor within the evolution of sequential decision-making processes}. Theoretical guarantees are established for our proposed estimation algorithm, laying the foundation for the pioneering integration of tensor methodologies into the RL setting.
 
 # Summary. An optional shortened abstract.
 summary: |

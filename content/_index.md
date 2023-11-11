@@ -22,8 +22,8 @@ sections:
         #### As an instructor for MGMT 571 - Data Mining
         - I design engaging assignments and craft stimulating Kaggle competitions for Master of Science in Business Analytics and Information Management students.
         ##### In my role as a teaching assistant for several core graduate courses
-        - In MGMT 571 - Data Mining, I collaborated with the instructor on the design of homework problems and solutions, led and designed a challenging Kaggle competition.
-        - In GMT 670 - Business Analytics, I taught student applying analytical methods in the business world, evaluated and graded homeworks and exams.
+        - In MGMT 571 - Data Mining, I collaborated with the instructor on the design of homework problems and solutions, led and designed a challenging Kaggle competition;
+        - In MGMT 670 - Business Analytics, I taught student applying analytical methods in the business world, evaluated and graded homeworks and exams;
         - In MGMT 305 - Introduction to Business Statistics, I introduced students to statistics in the context of business, I lead weekly recitation sessions.
         
   - block: collection
@@ -38,13 +38,17 @@ sections:
       columns: '2'
       view: card
 
-  - block: portfolio
+  - block: collection
     id: projects
     content:
-      title: Ongoing Publication and Projects
+      title: Ongoing Research Projects
       filters:
         folders:
           - project
+        featured_only: true
+      design:
+        columns: '2'
+        view: card
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -52,19 +56,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Reinforcement Learning
-          tag: Reinforcement Learning
-        - name: Deep Learning
-          tag: Deep Learning
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Reinforcement Learning
+#          tag: Reinforcement Learning
+#        - name: Deep Learning
+#          tag: Deep Learning
+#    design:
+#      # Choose how many columns the section has. Valid values: '1' or '2'.
+#      columns: '1'
+#      view: showcase
+#      # For Showcase view, flip alternate rows?
+#      flip_alt_rows: false
 
 #  - block: markdown
 #    content:
@@ -75,10 +79,10 @@ sections:
 #    design:
 #      columns: '1'
 
-  - block: tag_cloud
-    id: topics
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#  - block: tag_cloud
+#    id: topics
+#    content:
+#      title: Popular Topics
+#    design:
+#      columns: '2'
 ---
